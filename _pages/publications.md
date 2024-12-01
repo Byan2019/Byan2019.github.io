@@ -16,13 +16,10 @@ author_profile: true
 ## Publications
 
  - <span>[Comparison of GMM and MD estimators for a panel regression model with endogenous regressors and an AR(1) disturbance](https://www.tandfonline.com/doi/pdf/10.1080/13504851.2024.2352166)</span>   
- <span>Kazuhiko Hayakawa, </span> <span>**Boyan Yin**\*, </span><span>2024.</span>    
-     <span>Applied Economics Letters</span> <span> [GitHub](https://github.com/Byan2019/)</span>
-
+ <span>Kazuhiko Hayakawa, </span> <span>**Boyan Yin**\*, </span> <span>2024,</span> <span>Applied Economics Letters, </span> <span> [GitHub](https://github.com/Byan2019/).</span>
 
 ---
 
-<p style="margin-bottom: -10px;"> </p>
 
 ## Under reviewing
 
