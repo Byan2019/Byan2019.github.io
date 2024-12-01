@@ -8,7 +8,7 @@ author_profile: true
  
 ## Preprints
  
- - <span>Maximum Likelihood Estimation of Short Panel Autoregressive Models with Flexible Form of Fixed Effects</span>, <span>Kazuhiko Hayakawa and **Boyan Yin**\*,</span> <span>2024</span>, <span>_Journal of Statistical Planning and Inference_ </span>.
+ - <span>Maximum Likelihood Estimation of Short Panel Autoregressive Models with Flexible Form of Fixed Effects</span>, <span>Kazuhiko Hayakawa and **Boyan Yin**\*,</span> <span>2024</span>, <span>_Journal of Statistical Planning and Inference_.</span>
 
 ----
 
@@ -22,7 +22,7 @@ author_profile: true
 
 ## Under reviewing
 
-- <span>A Comparison of Estimators for Dynamic Structural Equation Models with Intensive Longitudinal Data</span>  <span>Kazuhiko Hayakawa and **Boyan Yin**\*,</span>, <span>2024</span>, <span>_structural equation modeling a multidisciplinary journal_</span>,<span> [GitHub](https://github.com/Byan2019/)</span>.
+- <span>A Comparison of Estimators for Dynamic Structural Equation Models with Intensive Longitudinal Data, </span>  <span>Kazuhiko Hayakawa and **Boyan Yin**\*,</span> <span>2024</span>, <span>_structural equation modeling a multidisciplinary journal_</span>,<span> [GitHub](https://github.com/Byan2019/)</span>.
 
 ---
 <span>(* corresponding author)</span>
