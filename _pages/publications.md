@@ -22,7 +22,7 @@ author_profile: true
 
 ## Under reviewing
 
-- <span>A Comparison of Estimators for Dynamic Structural Equation Models with Intensive Longitudinal Data, </span>  <span>Kazuhiko Hayakawa and **Boyan Yin**\*,</span> <span>2024</span>, <span>_structural equation modeling a multidisciplinary journal_</span>,<span> [GitHub](https://github.com/Byan2019/)</span>.
+- <span>A Comparison of Estimators for Dynamic Structural Equation Models with Intensive Longitudinal Data, </span>  <span>Kazuhiko Hayakawa and **Boyan Yin**\*,</span> <span>2024</span>, <span>_Structural Equation Modeling: A Multidisciplinary Journal_</span>,<span> [GitHub](https://github.com/Byan2019/)</span>.
 
 ---
 <span>(* corresponding author)</span>
