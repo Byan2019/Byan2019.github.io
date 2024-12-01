@@ -14,4 +14,4 @@ I work on Econometrics and Psychometrics and am generally interested in the fiel
 
 <!-- **I’m actively seeking opportunities * --> 
 
-[Email](d225542@hiroshima-u.ac.jp) / [Github](https://github.com/Byan2019) 
+[Email](mailto:d225542@hiroshima-u.ac.jp) / [Github](https://github.com/Byan2019) 
