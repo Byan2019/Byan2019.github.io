@@ -10,10 +10,8 @@ author_profile: true
  
  - <span>Maximum Likelihood Estimation of Short Panel Autoregressive Models with Flexible Form of Fixed Effects</span>, <span>Kazuhiko Hayakawa and </span><span ont-weight:500;">**Boyan Yin**\*,</span> <span>2024<\span>.
 
-<p style="margin-bottom: 20px;"> </p>
 ----
 
-<p style="margin-bottom: -10px;"> </p>
 
 ## Publications
 
@@ -28,12 +26,11 @@ author_profile: true
 
 ## Under reviewing
 
-- <span style="font-weight: 600;">A Comparison of Estimators for Dynamic Structural Equation Models with Intensive Longitudinal Data</span>      
-  <span style="font-size:14px;font-weight:500;">Kazuhiko Hayakawa</span><span style="font-size:14px">, Boyan Yin*/.</span>  
- <span style="color:grey;font-size:14px;">
+- <span>A Comparison of Estimators for Dynamic Structural Equation Models with Intensive Longitudinal Data</span>      
+  <span>Kazuhiko Hayakawa</span><span>, **Boyan Yin**\*,</span>, 2024, <span> [GitHub](https://github.com/Byan2019/)</span>
 
 ---
-<span>(* )</span>
+<span>(* corresponding author)</span>
 
 
 {% if author.googlescholar %}
