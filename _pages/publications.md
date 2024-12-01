@@ -8,23 +8,21 @@ author_profile: true
  
 ## Preprints
  
- - <span>Maximum Likelihood Estimation of Short Panel Autoregressive Models with Flexible Form of Fixed Effects</span>, <span>Kazuhiko Hayakawa and </span><span ont-weight:500;">**Boyan Yin**\*,</span> <span>2024<\span>.
+ - <span>Maximum Likelihood Estimation of Short Panel Autoregressive Models with Flexible Form of Fixed Effects</span>, <span>Kazuhiko Hayakawa and **Boyan Yin**\*,</span> <span>2024</span>, <span>_Journal of Statistical Planning and Inference_ </span>.
 
 ----
 
 
 ## Publications
 
- - <span>[Comparison of GMM and MD estimators for a panel regression model with endogenous regressors and an AR(1) disturbance](https://www.tandfonline.com/doi/pdf/10.1080/13504851.2024.2352166)</span>   
- <span>Kazuhiko Hayakawa, </span> <span>**Boyan Yin**\*, </span> <span>2024,</span> <span>Applied Economics Letters, </span> <span> [GitHub](https://github.com/Byan2019/).</span>
+ - <span>[Comparison of GMM and MD estimators for a panel regression model with endogenous regressors and an AR(1) disturbance](https://www.tandfonline.com/doi/pdf/10.1080/13504851.2024.2352166)</span> <span>, Kazuhiko Hayakawa and **Boyan Yin**\*, </span> <span>2024,</span> <span>Applied Economics Letters, </span> <span> [GitHub](https://github.com/Byan2019/).</span>
 
 ---
 
 
 ## Under reviewing
 
-- <span>A Comparison of Estimators for Dynamic Structural Equation Models with Intensive Longitudinal Data</span>      
-  <span>Kazuhiko Hayakawa</span><span>, **Boyan Yin**\*,</span>, 2024, <span> [GitHub](https://github.com/Byan2019/)</span>
+- <span>A Comparison of Estimators for Dynamic Structural Equation Models with Intensive Longitudinal Data</span>  <span>Kazuhiko Hayakawa and **Boyan Yin**\*,</span>, <span>2024</span>, <span>_structural equation modeling a multidisciplinary journal_</span>,<span> [GitHub](https://github.com/Byan2019/)</span>.
 
 ---
 <span>(* corresponding author)</span>
