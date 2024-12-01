@@ -11,7 +11,6 @@ Hi! I'm Boyan, a third year P.h.D candidate at Hiroshima University, where I hav
 
 I work on Econometrics and Psychometrics and am generally interested in the fields of machine learning in social science and software engineering. This site is still in development, but here I'm going to be posting my personal projects, in addition to other things I'm interested in.
 
-
 <!-- **I’m actively seeking opportunities * --> 
 
 [Email](mailto:d225542@hiroshima-u.ac.jp) / [Github](https://github.com/Byan2019) 
